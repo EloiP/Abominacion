@@ -2,4 +2,7 @@
 El programador observo su creacion y exclamo aterrorizado, que he hecho, y como diablos compila.
 
 > Dia 1
-He creado un makefile como pocos hay, porque no hay diferencia entre el y escribir un poquito.
+> He creado un makefile como pocos hay, porque no hay diferencia entre el y escribir un poquito.
+
+> Dia 2
+> El archivo acaba de nacer, con un nombre que hara temblar a los amantes del ascii.
