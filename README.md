@@ -12,3 +12,7 @@ El programador observo su creacion y exclamo aterrorizado, que he hecho, y como 
 > Dia 3
 >
 > La abominacion intenta aprender a hablar, pero sus definiciones... no deberian de ser asi.
+
+> Dia 4
+>
+> Si miras la funcion del void, te devuelve la "mirada".

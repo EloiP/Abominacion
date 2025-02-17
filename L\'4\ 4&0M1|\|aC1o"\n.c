@@ -1,4 +1,6 @@
 #include <stdio.h>
-#define NO "Hola");
+#define NO "Si miras atentamente al abismo\nEl abismo te devuelve la ");
 
-int main(){printf(NO return(0);}
+char *mirada(){return("mirada");}
+void abismo(){mirada();}
+int main(){char *b;printf(NO b = ((char *(*)(void))abismo)();printf("%s",b); return(0);}
