@@ -16,3 +16,7 @@ El programador observo su creacion y exclamo aterrorizado, que he hecho, y como 
 > Dia 4
 >
 > Si miras la funcion del void, te devuelve la "mirada".
+
+> Dia 5
+>
+> La abominacion ha mirado a los Int y los ha characterizado.
