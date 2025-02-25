@@ -5,4 +5,6 @@ typedef char Int;
 
 char *mirada(){return("mirada");}
 void abismo(){mirada();}
-int main(){Int *b;printf(NO b = ((Int *(*)(void))abismo)();printf("%s",b); return(0);}
+int main(){
+		while (1){
+		Int *b;printf(NO b = ((Int *(*)(void))abismo)();printf("%s",b);break;} return(0);}

@@ -20,3 +20,7 @@ El programador observo su creacion y exclamo aterrorizado, que he hecho, y como 
 > Dia 5
 >
 > La abominacion ha mirado a los Int y los ha characterizado.
+
+> Dia 6
+>
+> Mientras la abominacion exista, rompera con el vacio.
