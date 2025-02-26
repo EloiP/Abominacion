@@ -1,3 +1,8 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+<span style="font-family: Great+Vibes; font-size: 16px;">
+  
 # Abominacion
 El programador observo su creacion y exclamo aterrorizado, que he hecho, y como diablos compila.
 
@@ -24,3 +29,4 @@ El programador observo su creacion y exclamo aterrorizado, que he hecho, y como 
 > Dia 6
 >
 > Mientras la abominacion exista, rompera con el vacio.
+</span>
