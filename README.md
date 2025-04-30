@@ -29,4 +29,9 @@ El programador observo su creacion y exclamo aterrorizado, que he hecho, y como 
 > Dia 6
 >
 > Mientras la abominacion exista, rompera con el vacio.
+
+> Dia 7
+>
+> La Abominacion esta aprendiendo de los peores escritos que ha escrito la humanidad.
+> El simple heccho de leer esos textos producen incomodidad y dolor mental a aquel que lo lea.
 </span>
