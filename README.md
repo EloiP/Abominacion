@@ -34,4 +34,9 @@ El programador observo su creacion y exclamo aterrorizado, que he hecho, y como 
 >
 > La Abominacion esta aprendiendo de los peores escritos que ha escrito la humanidad.
 > El simple heccho de leer esos textos producen incomodidad y dolor mental a aquel que lo lea.
+
+> Dia 8
+>
+> La Abominacion ha hecho un nido, en el imprime sin entender.
+> Tambien compara, deffine y itera en lo peor a la vez.
 </span>
